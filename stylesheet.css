@@ -11,6 +11,17 @@ layout: default
 </div>
 
 
+<div class="gs-section-02">
+
+<h3>{{ header }}</h3>
+  
+{{ content }}
+  
+</div>
+
+
+
+
 
 <style>
 
