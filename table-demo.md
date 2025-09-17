@@ -22,6 +22,7 @@ gosling:
 ---
 
 
+![ryan-v-ryan](https://github.com/user-attachments/assets/050b8b78-29de-4df6-8be3-d8404454b80c)
 
 
 ![]({{site.url}}/assets/img/ryan-v-ryan.jpg)  
